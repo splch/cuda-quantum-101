@@ -10,7 +10,7 @@ If `pip install -r requirements.txt` fails, build and run the Dockerfile:
 docker build -t cuda-quantum -f Dockerfile . && docker run --env-file .env -p 8888:8888 -it cuda-quantum
 ```
 
-Then navigate to the Jupyter server: <0.0.0.0:8888>.
+Then navigate to the Jupyter server: [0.0.0.0:8888](http://0.0.0.0:8888/).
 
 ---
 
