@@ -2,6 +2,8 @@
 
 [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/splch/cuda-quantum-101/blob/main.ipynb)
 
+> Get an API key from IonQ and put it in the `.env` file.
+
 ---
 
 If `pip install -r requirements.txt` fails, build and run the Dockerfile:
