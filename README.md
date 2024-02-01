@@ -2,7 +2,7 @@
 
 Quickly start with CUDA Quantum 101 using our Colab notebook:
 
-[![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/splch/cuda-quantum-101/blob/main.ipynb)
+[![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/splch/cuda-quantum-101/blob/demo.ipynb)
 
 ## Installation
 
